@@ -1,0 +1,980 @@
+
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+  <title> Isha Newsletter </title>
+  <!--[if !mso]><!-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type="text/css">
+    #outlook a {
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    table,
+    td {
+      border-collapse: collapse;
+      mso-table-lspace: 0pt;
+      mso-table-rspace: 0pt;
+    }
+
+    img {
+      border: 0;
+      height: auto;
+      line-height: 100%;
+      outline: none;
+      text-decoration: none;
+      -ms-interpolation-mode: bicubic;
+    }
+
+    p {
+      display: block;
+      margin: 13px 0;
+    }
+  </style>
+  <!--[if mso]>
+        <noscript>
+        <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+        </xml>
+        </noscript>
+        <![endif]-->
+  <!--[if lte mso 11]>
+        <style type="text/css">
+          .mj-outlook-group-fix { width:100% !important; }
+        </style>
+        <![endif]-->
+  <style type="text/css">
+    @media only screen and (min-width:480px) {
+      .mj-column-per-100 {
+        width: 100% !important;
+        max-width: 100%;
+      }
+
+      .mj-column-per-30 {
+        width: 30% !important;
+        max-width: 30%;
+      }
+
+      .mj-column-per-70 {
+        width: 70% !important;
+        max-width: 70%;
+      }
+
+      .mj-column-per-50 {
+        width: 50% !important;
+        max-width: 50%;
+      }
+    }
+  </style>
+  <style media="screen and (min-width:480px)">
+    .moz-text-html .mj-column-per-100 {
+      width: 100% !important;
+      max-width: 100%;
+    }
+
+    .moz-text-html .mj-column-per-30 {
+      width: 30% !important;
+      max-width: 30%;
+    }
+
+    .moz-text-html .mj-column-per-70 {
+      width: 70% !important;
+      max-width: 70%;
+    }
+
+    .moz-text-html .mj-column-per-50 {
+      width: 50% !important;
+      max-width: 50%;
+    }
+  </style>
+  <style type="text/css">
+    @media only screen and (max-width:480px) {
+      table.mj-full-width-mobile {
+        width: 100% !important;
+      }
+
+      td.mj-full-width-mobile {
+        width: auto !important;
+      }
+    }
+  </style>
+  <!-- <mj-style>
+      @media (max-width:480px) { 
+        .image-css img {
+          height: 90px !important;
+        }
+      }
+    </mj-style> -->
+</head>
+
+<body style="word-spacing:normal;background-color:#cccccc;">
+  <div style="background-color:#cccccc;">
+    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                  <tbody>
+                    <tr>
+                      <td align="right" style="font-size:0px;padding:10px 25px;padding-top:20px;word-break:break-word;">
+                        <div style="font-family:'Merriweather',Georgia,serif;font-size:13px;font-weight:600;line-height:22px;text-align:right;color:#333333;"><a style="color:#222222; text-decoration:underline" href="http://ishangam.isha.in/mail/emailer/2361/view?db=ishangam&res_id=1768940&email=bhargavgandhi1%40gmail.com&token=124de6bfb4f4a2bd6cb2f0329005183f0542b1ba180e55f8c4c62070387926567ad37b3f61a4ea73502287c7eb0895558b0f703b3f6d23361cb774880aedfe4e" target="_blank">Can't view emailer?</a></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#002533" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#002533;background-color:#002533;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#002533;background-color:#002533;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;padding-bottom:20px;padding-left:20px;padding-right:20px;padding-top:20px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="width:560px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;">
+                <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:top;width:168px;" ><![endif]-->
+                <div class="mj-column-per-30 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:30%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="vertical-align:top;padding-top:0px;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tbody>
+                              <tr>
+                                <td align="left" style="font-size:0px;padding:0px;word-break:break-word;">
+                                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                    <tbody>
+                                      <tr>
+                                        <td style="width:60px;">
+                                          <a href="https://www.isha.sadhguru.org/" target="_blank">
+                                            <img height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Mar2022/isha-white.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="60" />
+                                          </a>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td><td style="vertical-align:top;width:392px;" ><![endif]-->
+                <div class="mj-column-per-70 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:70%;">
+                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                    <tbody>
+                      <tr>
+                        <td style="vertical-align:top;padding:0px;">
+                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                            <tbody>
+                              <tr>
+                                <td align="right" vertical-align="top" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                  <div style="font-family:'Merriweather',Georgia,serif;font-size:18px;font-weight:400;line-height:24px;text-align:right;color:#ffffff;">Isha News<br />August 2022</div>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table><![endif]-->
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#cccccc" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#cccccc;background-color:#cccccc;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#cccccc;background-color:#cccccc;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><![endif]-->
+              <!-- <mj-column width="100%" padding="0px">
+        <mj-image padding="0px" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Mar2022/divdr-btm.png"></mj-image>
+      </mj-column> -->
+              <!--[if mso | IE]></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><![endif]-->
+    <div style="height:10px;line-height:10px;">&#8202;</div>
+    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:10px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" class="image-css" style="font-size:0px;padding:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:560px;">
+                                        <a href="https://isha.sadhguru.org/in/en/events/special-events/naga-pratishtha" target="_blank">
+                                          <img alt="Naga Pratishtha" height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Naga+Pratishtha.jpeg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" title="Naga Pratishtha" width="560" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#cccccc" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#cccccc;background-color:#cccccc;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#cccccc;background-color:#cccccc;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:15px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:600px;">
+                                        <img height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Mar2022/divdr-top.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600" />
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;padding-bottom:20px;padding-left:7px;padding-right:7px;padding-top:20px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:586px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:0px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:536px;">
+                                        <a href="https://youtu.be/Mlw9PcWs8y4" target="_blank">
+                                          <img alt="Gokulashtami - Sadhguru explains why we worship Krishna. " height="auto" src="https://static.sadhguru.org/d/46272/1633416618-1633416617801.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" title="Gokulashtami - Sadhguru explains why we worship Krishna. " width="536" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:18px;font-weight:bold;line-height:22px;text-align:left;color:#0c0c0c;">Gokulashtami - Sadhguru explains why we worship Krishna.</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:400;line-height:22px;text-align:left;color:#333333;">Sadhguru explains why we worship Krishna, though his whole life’s work ended in a terrible, bloody war at Kurukshetra.</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" vertical-align="middle" style="font-size:0px;padding:10px 25px;padding-top:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:230px;line-height:100%;">
+                                  <tr>
+                                    <td align="center" bgcolor="#E5742E" role="presentation" style="border:none;border-radius:7px;cursor:auto;height:35px;mso-padding-alt:10px 25px;background:#E5742E;" valign="middle">
+                                      <a href="https://youtu.be/Mlw9PcWs8y4" style="display:inline-block;width:180px;background:#E5742E;color:#ffffff;font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:7px;" target="_blank"> &nbsp;&nbsp;Watch Video&nbsp;&nbsp; </a>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;padding-bottom:20px;padding-left:7px;padding-right:7px;padding-top:20px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:586px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:0px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:536px;">
+                                        <a href="https://www.ishaoutreach.org/en/cauvery-calling/events/day-for-river-revitalisation-september-3rd-2020#:~:text=On%20September%203%2C%20we%20celebrate,River%20Revitalization%20across%20the%20world" target="_blank">
+                                          <img alt="Rally For Rivers" height="auto" src="https://isha.sadhguru.org/rally-for-rivers/wp-content/uploads/2020/02/sadhguru-davos-2020-world-economic-forum-morning-meditation-jan22.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" title="Rally For Rivers" width="536" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:18px;font-weight:bold;line-height:22px;text-align:left;color:#0c0c0c;">Rally For Rivers Revitalisation Day</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:400;line-height:22px;text-align:left;color:#333333;">The central government has announced that it would undertake the rejuvenation of 13 major rivers in the country, based on the suggestions in the Draft Policy Recommendation (DPR) of the Rally for Rivers (RfR) movement, a campaign spearheaded by Sadhguru, the founder of Isha Foundation.</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" vertical-align="middle" style="font-size:0px;padding:10px 25px;padding-top:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:230px;line-height:100%;">
+                                  <tr>
+                                    <td align="center" bgcolor="#E5742E" role="presentation" style="border:none;border-radius:7px;cursor:auto;height:35px;mso-padding-alt:10px 25px;background:#E5742E;" valign="middle">
+                                      <a href="https://www.ishaoutreach.org/en/cauvery-calling/events/day-for-river-revitalisation-september-3rd-2020#:~:text=On%20September%203%2C%20we%20celebrate,River%20Revitalization%20across%20the%20world" style="display:inline-block;width:180px;background:#E5742E;color:#ffffff;font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:7px;" target="_blank"> &nbsp;&nbsp;Read More&nbsp;&nbsp; </a>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#cccccc" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#cccccc;background-color:#cccccc;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#cccccc;background-color:#cccccc;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:600px;">
+                                        <img height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Mar2022/divdr-btm.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600" />
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><![endif]-->
+    <div style="height:10px;line-height:10px;">&#8202;</div>
+    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:10px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" class="image-css" style="font-size:0px;padding:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:560px;">
+                                        <a href="https://www.innerengineering.com/completion-online" target="_blank">
+                                          <img alt="IE Inclusive" height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/IEC2022-Shambhavi-Creative-1_1920x1080_WA-v2-1-Recovered_V2.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" title="IE Inclusive" width="560" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#cccccc" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#cccccc;background-color:#cccccc;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#cccccc;background-color:#cccccc;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:15px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:600px;">
+                                        <img height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Mar2022/divdr-top.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600" />
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;padding-bottom:20px;padding-left:7px;padding-right:7px;padding-top:20px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:586px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:0px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:536px;">
+                                        <a href="https://isha.sadhguru.org/us/en/wisdom/video/asana-siddhi-mastering-yogasana" target="_blank">
+                                          <img height="auto" src="https://isha.sadhguru.org/yoga/wp-content/uploads/2020/04/hatha-yoga-asanas.jpg" style="border:0px;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="536" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:18px;font-weight:bold;line-height:22px;text-align:left;color:#0c0c0c;">Asana Siddhi:Mastering the Yogasana</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:400;line-height:22px;text-align:left;color:#333333;">Sadhguru gives enlightening insights into yogasanas - how they can create a foundation for a hatha yogi to reach their ultimate nature.</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" vertical-align="middle" style="font-size:0px;padding:10px 25px;padding-top:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:230px;line-height:100%;">
+                                  <tr>
+                                    <td align="center" bgcolor="#E5742E" role="presentation" style="border:none;border-radius:7px;cursor:auto;height:35px;mso-padding-alt:10px 25px;background:#E5742E;" valign="middle">
+                                      <a href="https://isha.sadhguru.org/us/en/wisdom/video/asana-siddhi-mastering-yogasana" style="display:inline-block;width:180px;background:#E5742E;color:#ffffff;font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:7px;" target="_blank"> &nbsp;&nbsp;Read More&nbsp;&nbsp; </a>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;padding-bottom:0px;padding-left:7px;padding-right:7px;padding-top:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;padding-bottom:20px;padding-left:7px;padding-right:7px;padding-top:20px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:586px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:0px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:536px;">
+                                        <a href="https://isha.sadhguru.org/us/en/blog/article/horse-gram-benefits-nutrition-recipes" target="_blank">
+                                          <img height="auto" src="https://static.sadhguru.org/d/46272/1633193376-1633193375679.jpg" style="border:0px;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="536" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:0px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:18px;font-weight:bold;line-height:22px;text-align:left;color:#0c0c0c;">Horse Gram ( A Super Food) 11 amazing benefits</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:400;line-height:22px;text-align:left;color:#333333;">Find out everything about horse gram, the miracle pulse. A traditional elixir for ailments like diabetes, heart disease, kidney stones, asthma, obesity, cold and many more, horse gram is highly protein-rich, high in calcium, low in fat and full of antioxidants. Here are 11 horse gram benefits that are sure to convince you to try it out. Plus, there is a recipe in here too!</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" vertical-align="middle" style="font-size:0px;padding:10px 25px;padding-top:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:230px;line-height:100%;">
+                                  <tr>
+                                    <td align="center" bgcolor="#E5742E" role="presentation" style="border:none;border-radius:7px;cursor:auto;height:35px;mso-padding-alt:10px 25px;background:#E5742E;" valign="middle">
+                                      <a href="https://isha.sadhguru.org/us/en/blog/article/horse-gram-benefits-nutrition-recipes" style="display:inline-block;width:180px;background:#E5742E;color:#ffffff;font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:7px;" target="_blank"> &nbsp;&nbsp;Read More&nbsp;&nbsp; </a>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#cccccc" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#cccccc;background-color:#cccccc;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#cccccc;background-color:#cccccc;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:600px;">
+                                        <img height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Mar2022/divdr-btm.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600" />
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><![endif]-->
+    <div style="height:10px;line-height:10px;">&#8202;</div>
+    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:10px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:560px;">
+                                        <a href="https://datastudio.google.com/u/0/reporting/fb04fb96-d7be-4a2f-a14d-789222ea606b/page/p_13xj7tborc" target="_blank">
+                                          <img alt="Hatha Yoga Programs" height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Upcoming+Hatha+2.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" title="Hatha Yoga Programs" width="560" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#cccccc" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#cccccc;background-color:#cccccc;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#cccccc;background-color:#cccccc;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:15px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:600px;">
+                                        <img height="auto" src="https://emedia-email-images-s3.s3.ap-south-1.amazonaws.com/Isha+India+West+Zone+/Mar2022/divdr-top.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600" />
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;padding-bottom:20px;padding-left:7px;padding-right:7px;padding-top:20px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:293px;" ><![endif]-->
+              <div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:0px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:243px;">
+                                        <a href="https://fb.watch/eNJkLuxXO1/" target="_blank">
+                                          <img height="auto" src="https://www.datocms-assets.com/46272/1659931277-savesoil-in-netherlands.jpg?auto=format&fit=max&w=1000" style="border:0px;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="243" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:400;line-height:22px;text-align:left;color:#333333;">Sadhguru & <strong style="font-style:italic">#SaveSoil</strong> in the Netherlands – Glimpses</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" vertical-align="middle" style="font-size:0px;padding:10px 25px;padding-top:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:230px;line-height:100%;">
+                                  <tr>
+                                    <td align="center" bgcolor="#E5742E" role="presentation" style="border:none;border-radius:7px;cursor:auto;height:35px;mso-padding-alt:10px 25px;background:#E5742E;" valign="middle">
+                                      <a href="https://fb.watch/eNJkLuxXO1/" style="display:inline-block;width:180px;background:#E5742E;color:#ffffff;font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:7px;" target="_blank"> &nbsp;&nbsp;Read post&nbsp;&nbsp; </a>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:293px;" ><![endif]-->
+              <div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding-top:0px;padding-bottom:0px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:243px;">
+                                        <a href="https://www.instagram.com/p/ChBdlhlhr-j/?utm_source=ig_web_copy_link" target="_blank">
+                                          <img height="auto" src="https://static.sadhguru.org/d/46272/1660001418-aug-9-20180828_sun_0618-e.jpg" style="border:0px;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="243" />
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                                <div style="font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:400;line-height:22px;text-align:left;color:#333333;">Body and mind are the surface of existence. When you realize their impermanence, you will orient yourself towards the source of existence.<br /><strong style="font-style:italic">#SadhguruQuotes</strong></div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" vertical-align="middle" style="font-size:0px;padding:10px 25px;padding-top:10px;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:230px;line-height:100%;">
+                                  <tr>
+                                    <td align="center" bgcolor="#E5742E" role="presentation" style="border:none;border-radius:7px;cursor:auto;height:35px;mso-padding-alt:10px 25px;background:#E5742E;" valign="middle">
+                                      <a href="https://www.instagram.com/p/ChBdlhlhr-j/?utm_source=ig_web_copy_link" style="display:inline-block;width:180px;background:#E5742E;color:#ffffff;font-family:'Merriweather',Georgia,serif;font-size:15px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:7px;" target="_blank"> &nbsp;&nbsp;Read Post&nbsp;&nbsp; </a>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600" bgcolor="#cccccc" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div style="background:#cccccc;background-color:#cccccc;margin:0px auto;max-width:600px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#cccccc;background-color:#cccccc;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                  <tbody>
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;padding-top:35px;word-break:break-word;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                          <tbody>
+                            <tr>
+                              <td style="width:79px;">
+                                <a href="http://www.ishafoundation.org/?global" target="_blank">
+                                  <img height="71" src="http://mail.sadhguru.org/op/app/public/file/view/s3/t5" style="border:0;display:block;outline:none;text-decoration:none;height:71px;width:100%;font-size:13px;" width="79" />
+                                </a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <div style="font-family:'Merriweather',Georgia,serif;font-size:13px;font-weight:400;line-height:24px;text-align:center;color:#333333;">Copyright &copy; 2020 Isha Foundation<br /> Velliangiri Foothills, Semmedu Post,Coimbatore - 641114, Tamil Nadu, India.</div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;">
+                        <div style="font-family:'Merriweather',Georgia,serif;font-size:13px;font-weight:400;line-height:24px;text-align:center;color:#333333;"><a style="color:#000000; text-decoration:underline" href="https://www.isha.sadhguru.org/" target="_blank">isha.sadhguru.org</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="color:#000000; text-decoration:underline" href="http://ishangam.isha.in/mail/isha_mailing/2361/unsubscribe?db=ishangam&res_id=1768940&email=bhargavgandhi1%40gmail.com&token=124de6bfb4f4a2bd6cb2f0329005183f0542b1ba180e55f8c4c62070387926567ad37b3f61a4ea73502287c7eb0895558b0f703b3f6d23361cb774880aedfe4e" target="_blank">Unsubscribe</a></div>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><![endif]-->
+  </div>
+</body>
+
+</html>
